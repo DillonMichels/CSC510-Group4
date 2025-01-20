@@ -1,4 +1,4 @@
-![example workflow](https://github.com/github/docs/actions/workflows/python-app.yml/badge.svg)
+![example workflow](https://github.com/DillonMichels/CSC510-Group4/actions/workflows/python-app.yml/badge.svg)
 
 
 ![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow)
